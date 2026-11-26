@@ -1,0 +1,22 @@
+MCP Support & Quote Starter v1.0 — Buyer License
+
+If you obtain this kit from an authorized seller, this license applies
+to the code, tests, and README distributed in the Starter ZIP. The
+seller grants these permissions to the extent it holds the rights
+needed to grant them.
+
+You may use, copy, and modify the kit for personal, internal business,
+and paid client work. People working on your behalf may use copies for
+those purposes. You may deliver the kit or a modified copy, including
+source, as part of a client implementation. That client may use and
+maintain its implementation, including through its service providers.
+Include this license in copies delivered to clients.
+
+This grant does not authorize public redistribution, standalone resale,
+or sublicensing the kit as a template or starter product. It does not
+transfer ownership of the kit. The same code rights apply to both paid
+tiers. The separately delivered setup guide includes its own use terms.
+
+The kit is provided as is, without warranties of any kind, to the extent
+permitted by applicable law. Nothing in this license limits rights that
+cannot be waived under applicable law.
