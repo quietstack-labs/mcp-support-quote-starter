@@ -2,6 +2,8 @@
 
 Run a local MCP server for ticket triage, quote calculations, support email drafts, and daily ticket reports. The JavaScript source uses ES modules and Node built-ins. The server has no npm dependencies, API keys, network calls, persistent storage, or email delivery. Your MCP client or model provider may handle inputs and results under its own data policies.
 
+> 💼 **Get the packaged kit on Gumroad:** [MCP Support & Quote Starter Kit ($49)](https://playmaster72.gumroad.com/l/mcp-support-quote-starter) — ZIP with buyer license for internal and paid client work.
+
 ## Run and connect
 
 Use **Node.js 22 or later** and npm for the test command. The server supports **MCP 2025-11-25 over stdio**. Extract the ZIP and open a terminal in the folder containing `package.json`.
@@ -101,3 +103,5 @@ The report contains one included ticket and one outside the window. CSV uses CRL
 ## Buyer license
 
 Both tiers permit internal business use, modifications, paid client work and delivery within client implementations under `LICENSE.txt`. Keep the license with client copies. The setup guide is a separate download in the Commercial + Setup Guide tier.
+
+Buy a license: [https://playmaster72.gumroad.com/l/mcp-support-quote-starter](https://playmaster72.gumroad.com/l/mcp-support-quote-starter)
